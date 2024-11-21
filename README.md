@@ -9,3 +9,6 @@ ravi commit from newbranch commit 3
 ravi commit from newbranch commit 4
 ravi commit for subtree
 child commit 1
+
+child commit 2 from parent
+
