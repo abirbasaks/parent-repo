@@ -1,3 +1,4 @@
 [submodule "child-repo1"]
 	path = child-repo1
 	url = https://github.com/abirbasaks/child-repo1.git
+	branch = main
