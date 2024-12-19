@@ -2,3 +2,7 @@
 	path = child-repo1
 	url = https://github.com/abirbasaks/child-repo1.git
 	branch = ravi-REDACTED
+[submodule "child-repo-new"]
+	path = child-repo-new
+	url = https://github.com/abirbasaks/child-repo1.git
+	branch = ravi-REDACTED
